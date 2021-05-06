@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lt/g1hiffztplOITJr0to37YLPUY7id0YbCRqH3EjHIURLCp49bBBgGdbGT9R4SLPKuXQUGID6yX42npfpwEyQ==",
+  "dgSpecHash": "GOW3hty12M9wojd95sWjvAA2Cvdm6z2bswxtWaYwK39J2fW2JakPsUoPjiIxLish63/Sb4cCZO1Jabtv643oUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serra\\Source\\Repos\\MvcCoreAWSElasticCache\\MvcCoreAWSElastiCache\\MvcCoreAWSElastiCache.csproj",
+  "projectFilePath": "C:\\Users\\Serra\\source\\repos\\MvcCoreAWSElasticCache\\MvcCoreAWSElastiCache\\MvcCoreAWSElastiCache.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serra\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Serra\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
