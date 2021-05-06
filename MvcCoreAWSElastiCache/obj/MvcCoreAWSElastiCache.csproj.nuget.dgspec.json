@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ProfesorMCSD\\Documents\\Visual Studio 2019\\MvcCoreAWSElastiCache\\MvcCoreAWSElastiCache\\MvcCoreAWSElastiCache.csproj": {}
+    "C:\\Users\\Serra\\Source\\Repos\\MvcCoreAWSElasticCache\\MvcCoreAWSElastiCache\\MvcCoreAWSElastiCache.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ProfesorMCSD\\Documents\\Visual Studio 2019\\MvcCoreAWSElastiCache\\MvcCoreAWSElastiCache\\MvcCoreAWSElastiCache.csproj": {
+    "C:\\Users\\Serra\\Source\\Repos\\MvcCoreAWSElasticCache\\MvcCoreAWSElastiCache\\MvcCoreAWSElastiCache.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ProfesorMCSD\\Documents\\Visual Studio 2019\\MvcCoreAWSElastiCache\\MvcCoreAWSElastiCache\\MvcCoreAWSElastiCache.csproj",
+        "projectUniqueName": "C:\\Users\\Serra\\Source\\Repos\\MvcCoreAWSElasticCache\\MvcCoreAWSElastiCache\\MvcCoreAWSElastiCache.csproj",
         "projectName": "MvcCoreAWSElastiCache",
-        "projectPath": "C:\\Users\\ProfesorMCSD\\Documents\\Visual Studio 2019\\MvcCoreAWSElastiCache\\MvcCoreAWSElastiCache\\MvcCoreAWSElastiCache.csproj",
-        "packagesPath": "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ProfesorMCSD\\Documents\\Visual Studio 2019\\MvcCoreAWSElastiCache\\MvcCoreAWSElastiCache\\obj\\",
+        "projectPath": "C:\\Users\\Serra\\Source\\Repos\\MvcCoreAWSElasticCache\\MvcCoreAWSElastiCache\\MvcCoreAWSElastiCache.csproj",
+        "packagesPath": "C:\\Users\\Serra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serra\\Source\\Repos\\MvcCoreAWSElasticCache\\MvcCoreAWSElastiCache\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ProfesorMCSD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Serra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -90,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
