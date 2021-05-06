@@ -11,7 +11,7 @@ namespace MvcCoreAWSElastiCache.Helpers
         private static Lazy<ConnectionMultiplexer> CrearConexion =
             new Lazy<ConnectionMultiplexer>(() =>
             {
-                return ConnectionMultiplexer.Connect("cache-personajes-0001-001.mk0zjh.0001.use1.cache.amazonaws.com:6379;abortConnect=False");
+                return ConnectionMultiplexer.Connect("cache-personajes-0001-001.mk0zjh.0001.use1.cache.amazonaws.com:6379");
             });
 
         public static ConnectionMultiplexer Connection
