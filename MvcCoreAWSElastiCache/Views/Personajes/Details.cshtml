@@ -5,7 +5,11 @@
 }
 
 <h1>Details</h1>
-
+<div>
+    @Html.ActionLink("Marcar Favorito", "SeleccionarFavorito"
+    , new { id = Model.IdPersonaje }) |
+    <a asp-action="Index">Back to List</a>
+</div>
 <div>
     <h4>Personaje</h4>
     <hr />
@@ -31,7 +35,4 @@
         </dd>
     </dl>
 </div>
-<div>
-    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
-    <a asp-action="Index">Back to List</a>
-</div>
+

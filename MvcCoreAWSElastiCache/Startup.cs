@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using MvcCoreAWSElastiCache.Data;
 using MvcCoreAWSElastiCache.Repositories;
+using MvcCoreAWSElastiCache.Services;
 
 namespace MvcCoreAWSElastiCache
 {
@@ -29,6 +30,7 @@ namespace MvcCoreAWSElastiCache
             services.AddDbContextPool<PersonajesContext>
                 (options => options.UseMySql(cadena
                 , ServerVersion.AutoDetect(cadena)));
+            services.AddTransient<ServiceAWSCacheRedis>();
             services.AddControllersWithViews();
         }
 

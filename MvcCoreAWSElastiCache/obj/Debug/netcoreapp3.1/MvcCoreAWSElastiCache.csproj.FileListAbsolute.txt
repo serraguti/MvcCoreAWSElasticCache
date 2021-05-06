@@ -128,3 +128,11 @@ C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\MvcCoreAWSElastiCache\MvcCore
 C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\MvcCoreAWSElastiCache\MvcCoreAWSElastiCache\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\MvcCoreAWSElastiCache\MvcCoreAWSElastiCache\obj\Debug\netcoreapp3.1\Razor\Views\Personajes\Details.cshtml.g.cs
 C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\MvcCoreAWSElastiCache\MvcCoreAWSElastiCache\obj\Debug\netcoreapp3.1\Razor\Views\Personajes\Create.cshtml.g.cs
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\MvcCoreAWSElastiCache\MvcCoreAWSElastiCache\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\MvcCoreAWSElastiCache\MvcCoreAWSElastiCache\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\MvcCoreAWSElastiCache\MvcCoreAWSElastiCache\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\MvcCoreAWSElastiCache\MvcCoreAWSElastiCache\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\MvcCoreAWSElastiCache\MvcCoreAWSElastiCache\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\MvcCoreAWSElastiCache\MvcCoreAWSElastiCache\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\MvcCoreAWSElastiCache\MvcCoreAWSElastiCache\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\MvcCoreAWSElastiCache\MvcCoreAWSElastiCache\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
