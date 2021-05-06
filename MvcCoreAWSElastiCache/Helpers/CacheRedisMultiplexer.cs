@@ -12,7 +12,7 @@ namespace MvcCoreAWSElastiCache.Helpers
             new Lazy<ConnectionMultiplexer>(() =>
             {
                 //return ConnectionMultiplexer.Connect("cache-redis-personajes-0001-001.mk0zjh.0001.use1.cache.amazonaws.com:6379,ssl=True,abortConnect=False,sslprotocols=tls12");
-                return ConnectionMultiplexer.Connect("cache-redis-personajes-0003-001.mk0zjh.0001.use1.cache.amazonaws.com:6379");
+                return ConnectionMultiplexer.Connect("cache-personajes-0001-001.mk0zjh.0001.use1.cache.amazonaws.com:6379");
             });
 
         public static ConnectionMultiplexer Connection
